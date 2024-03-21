@@ -1,1 +1,45 @@
 /* Place CSS styles here */
+
+body {
+    background-color: rgb(200, 227, 248);
+    color: rgb(188, 35, 73);
+    font-family: "Merriweather",serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+h1 {
+  font-family: "Mea Culpa";
+   font-style: italic;
+   font-weight: normal;
+   font-size: 48px;
+   line-height: 48px;
+   text-align: center;
+}
+
+h2 {
+  font-family: "Merriweather", serif;
+   font-style: normal;
+   font-weight: normal;
+   font-size: 48px;
+   line-height: 48px;
+   text-align: center;
+}
+
+h3 {
+  font-family: "Merriweather", serif;
+   font-style: italic;
+   font-weight: normal;
+   font-size: 12px;
+   line-height: 48px;
+   text-align: center;
+}
+
+h4 {
+  font-family: "Lilita One", serif;
+   font-style: bold;
+   font-weight: normal;
+   font-size: 48px;
+   line-height: 48px;
+   text-align: center;
+}
